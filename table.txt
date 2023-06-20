@@ -1,0 +1,1 @@
+MC	mint conditionEC	excellent conditionVGC	very good conditionGC	good conditionFC	fair conditionPC	poor condition
